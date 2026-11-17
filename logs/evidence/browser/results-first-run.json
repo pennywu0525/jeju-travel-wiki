@@ -1,0 +1,2273 @@
+{
+  "executed_at": "2026-11-16T14:16:07.702Z",
+  "browser": "Microsoft Edge / Chromium, headless",
+  "checks": [
+    {
+      "name": "15 slides present",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "one visible slide",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "previous disabled at first page",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "next button",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "previous button",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "ArrowRight",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "ArrowLeft",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "last boundary",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "cannot pass page 15",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Home returns first",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "chapter 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "chapter 4",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "chapter 8",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "chapter 9",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "chapter 11",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "chapter 12",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "transport public panel",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "transport driving panel",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "bus choice 0",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "bus choice 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "stay choice 0",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "stay choice 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "stay choice 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "stay choice 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "east choice 0",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "east choice 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "food choice 0",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "food choice 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "food choice 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "itinerary choice 0",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "itinerary choice 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "region 0",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "region 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "region 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "region 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "quiz wrong",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "quiz right",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "day expandable",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "day expandable",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "day expandable",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "day expandable",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "checklist completion",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "checklist reset",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "keyboard activates comparison",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "arrow key does not hijack select",
+      "passed": false,
+      "details": ""
+    },
+    {
+      "name": "direct page hash",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "invalid high page clamped",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 4",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 5",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 6",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 7",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 8",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 9",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 10",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 11",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 12",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 13",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 14",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable desktop 15",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 4",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 5",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 6",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 7",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 8",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 9",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 10",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 11",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 12",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 13",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 14",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable laptop 15",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 4",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 5",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 6",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 7",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 8",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 9",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 10",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 11",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 12",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 13",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 14",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable mobile 15",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 4",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 5",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 6",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 7",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 8",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 9",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 10",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 11",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 12",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 13",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 14",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source footer reachable small-mobile 15",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target assets/jeju-coast.svg",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target assets/style.css",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target assets/app.js",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target assets/jeju-coast.svg",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-01.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-02.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-04.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-07.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-08.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/spots.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/prep.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-01.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-02.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/transport.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-07.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/transport.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/prep.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-01.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/transport.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-04.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/transport.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-07.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/stay.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-08.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/spots.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/spots.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/food.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-08.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/stay.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-07.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-08.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/prep.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/transport.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-02.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-01.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-02.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-04.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-07.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-08.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/prep.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/transport.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/stay.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/spots.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/food.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route topics/itinerary.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-01.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-02.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-03.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-04.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-05.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-06.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-07.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-08.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-09.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local target wiki.html",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki route sources/SRC-10.md",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "SVG image loaded",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "source link opens readable Wiki",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki source route",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "Wiki reciprocal navigation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "touch comparison",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "touch next",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "file preview loads",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "file preview interaction",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "file Wiki source view",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "no browser JavaScript errors",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "no failed local requests",
+      "passed": true,
+      "details": ""
+    }
+  ],
+  "layouts": [
+    {
+      "viewport": "desktop",
+      "page": 1,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 2,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 3,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 4,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 5,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 6,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 7,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 8,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 9,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 10,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 11,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 12,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 13,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 14,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "desktop",
+      "page": 15,
+      "width": 1440,
+      "height": 960,
+      "horizontal_overflow": false,
+      "doc": 1440,
+      "view": 1440,
+      "reader": 1425,
+      "readerWidth": 1425
+    },
+    {
+      "viewport": "laptop",
+      "page": 1,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 2,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 3,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 4,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 5,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 6,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 7,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 8,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 9,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 10,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 11,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 12,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 13,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 14,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "laptop",
+      "page": 15,
+      "width": 1366,
+      "height": 768,
+      "horizontal_overflow": false,
+      "doc": 1366,
+      "view": 1366,
+      "reader": 1351,
+      "readerWidth": 1351
+    },
+    {
+      "viewport": "mobile",
+      "page": 1,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 2,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 3,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 4,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 5,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 6,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 7,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 8,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 9,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 10,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 11,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 12,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 13,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 14,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "mobile",
+      "page": 15,
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "doc": 390,
+      "view": 390,
+      "reader": 375,
+      "readerWidth": 375
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 1,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 2,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 3,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 4,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 5,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 6,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 7,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 8,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 9,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 10,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 11,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 12,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 13,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 14,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    },
+    {
+      "viewport": "small-mobile",
+      "page": 15,
+      "width": 320,
+      "height": 740,
+      "horizontal_overflow": false,
+      "doc": 320,
+      "view": 320,
+      "reader": 305,
+      "readerWidth": 305
+    }
+  ],
+  "errors": [
+    "arrow key does not hijack select: "
+  ],
+  "screenshots": [
+    "desktop-01.png",
+    "desktop-02.png",
+    "desktop-03.png",
+    "desktop-04.png",
+    "desktop-05.png",
+    "desktop-06.png",
+    "desktop-07.png",
+    "desktop-08.png",
+    "desktop-09.png",
+    "desktop-10.png",
+    "desktop-11.png",
+    "desktop-12.png",
+    "desktop-13.png",
+    "desktop-14.png",
+    "desktop-15.png",
+    "mobile-01.png",
+    "mobile-02.png",
+    "mobile-03.png",
+    "mobile-04.png",
+    "mobile-05.png",
+    "mobile-06.png",
+    "mobile-07.png",
+    "mobile-08.png",
+    "mobile-09.png",
+    "mobile-10.png",
+    "mobile-11.png",
+    "mobile-12.png",
+    "mobile-13.png",
+    "mobile-14.png",
+    "mobile-15.png"
+  ],
+  "browser_version": "157.0.4341.60",
+  "local_target_checks": 100,
+  "console_errors": [],
+  "failed_requests": [],
+  "passed": false
+}

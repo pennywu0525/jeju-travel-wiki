@@ -1,0 +1,25 @@
+# Private local backup: retained on this computer only
+/logs/evidence/baseline-before-codex.zip
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies, caches and temporary files
+node_modules/
+__pycache__/
+*.pyc
+.cache/
+.pytest_cache/
+.vscode/
+.idea/
+*.tmp
+*.temp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db

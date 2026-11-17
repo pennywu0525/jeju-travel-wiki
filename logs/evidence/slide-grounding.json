@@ -1,0 +1,226 @@
+{
+  "created_at": "2026-11-16T14:23:25.793Z",
+  "basis": "Approved outline and existing Wiki only; references validated for existence, factual scope manually reviewed",
+  "pages": [
+    {
+      "page": 1,
+      "title": "第一次去濟州島 把旅程，留給海風。",
+      "topics": [
+        "itinerary"
+      ],
+      "sources": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-04",
+        "SRC-05",
+        "SRC-06",
+        "SRC-07",
+        "SRC-08",
+        "SRC-09",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 2,
+      "title": "先選區域，再選景點。",
+      "topics": [
+        "spots",
+        "itinerary"
+      ],
+      "sources": [
+        "SRC-06",
+        "SRC-09",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 3,
+      "title": "出發前，先完成這三件事。",
+      "topics": [
+        "prep"
+      ],
+      "sources": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 4,
+      "title": "選交通，也是在選旅行節奏。",
+      "topics": [
+        "transport"
+      ],
+      "sources": [
+        "SRC-03",
+        "SRC-06",
+        "SRC-07"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 5,
+      "title": "能不能開，和能不能租，是兩個問題。",
+      "topics": [
+        "transport",
+        "prep"
+      ],
+      "sources": [
+        "SRC-01",
+        "SRC-05"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 6,
+      "title": "取車仔細一點，上路從容一點。",
+      "topics": [
+        "transport"
+      ],
+      "sources": [
+        "SRC-04",
+        "SRC-05",
+        "SRC-06"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 7,
+      "title": "不開車，就先把回程查好。",
+      "topics": [
+        "transport"
+      ],
+      "sources": [
+        "SRC-03",
+        "SRC-07"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 8,
+      "title": "住哪裡，讓每天少繞一點路？",
+      "topics": [
+        "stay"
+      ],
+      "sources": [
+        "SRC-08",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 9,
+      "title": "城山或牛島，挑一個當今天的主角。",
+      "topics": [
+        "spots",
+        "itinerary"
+      ],
+      "sources": [
+        "SRC-06",
+        "SRC-09"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 10,
+      "title": "西部看海，南部看地景。",
+      "topics": [
+        "spots"
+      ],
+      "sources": [
+        "SRC-06",
+        "SRC-09",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 11,
+      "title": "從一餐、一個市場，認識濟州。",
+      "topics": [
+        "food"
+      ],
+      "sources": [
+        "SRC-08",
+        "SRC-09",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 12,
+      "title": "四天三夜，先抓住旅程的骨架。",
+      "topics": [
+        "itinerary"
+      ],
+      "sources": [
+        "SRC-05",
+        "SRC-06",
+        "SRC-09",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 13,
+      "title": "多一天，把西部也放進選項。",
+      "topics": [
+        "itinerary",
+        "stay"
+      ],
+      "sources": [
+        "SRC-03",
+        "SRC-06",
+        "SRC-07",
+        "SRC-08",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 14,
+      "title": "準備好，再出發。",
+      "topics": [
+        "prep",
+        "transport",
+        "itinerary"
+      ],
+      "sources": [
+        "SRC-02",
+        "SRC-03",
+        "SRC-05",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    },
+    {
+      "page": 15,
+      "title": "每一個重點，都有回去查的地方。",
+      "topics": [
+        "prep",
+        "transport",
+        "stay",
+        "spots",
+        "food",
+        "itinerary"
+      ],
+      "sources": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-04",
+        "SRC-05",
+        "SRC-06",
+        "SRC-07",
+        "SRC-08",
+        "SRC-09",
+        "SRC-10"
+      ],
+      "manual_scope": "Wiki-supported facts and explicitly labelled editorial advice; dynamic unverified claims excluded"
+    }
+  ]
+}

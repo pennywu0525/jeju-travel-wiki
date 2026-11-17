@@ -1,0 +1,10 @@
+{
+  "executed_at": "2026-11-16T14:19:07.577Z",
+  "name": "arrow key does not hijack select",
+  "before": 4,
+  "selected": 3,
+  "visible": "slide-3",
+  "focused": "page-select",
+  "passed": true,
+  "explanation": "Native select may change its option and trigger change. Deck must match the selected value, retain focus, and not advance twice."
+}
